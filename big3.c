@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 void biggest3() {
     double n1, n2, n3;
     printf("Enter three different numbers: ");
